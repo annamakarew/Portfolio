@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Anna!
 
-I'm a passionate and results-driven software developer with a strong commitment to crafting elegant, efficient, and impactful solutions. My journey in earning my Computer Science degree from Cal Poly SLO has led me to work on a diverse range of projects, from web applications to database analysis.
+I'm a passionate and results-driven computer science student at Cal Poly SLO with a strong commitment to crafting elegant, efficient, and impactful solutions. My journey in earning my degree has led me to work on a diverse range of projects, from web applications to database analysis.
 
 ### What You'll Find Here
 

@@ -17,7 +17,7 @@ I'm a passionate and results-driven computer science student at Cal Poly SLO wit
 
 ### What I'm Currently Up To
 
-🌱 I'm a strong believer in continuous learning, and I'm currently studying abroad in Rome, concentrating on Software Engineering. My current goal is to learn techniques and tools for optimizing code and architecture to improve the scalability and performance of applications.
+🌱 I'm currently in winter quarter of my 4th year at Cal Poly SLO. I am taking *Programming Languages*, *Intro to Computer Security*, *Ethics, Science, and Technology*, *Senior Project*, and *Politics and Religion in Itlaian Renaissance Art*.  My current goal is to learn techniques and tools for securing code and computer architecture to improve the security of applications.
 
 ### Let's Connect!
 

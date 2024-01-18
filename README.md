@@ -6,7 +6,7 @@ I'm a passionate and results-driven computer science student at Cal Poly SLO wit
 
 ### What You'll Find Here
 
-🚀 In this repository, you'll find a collection of my projects and contributions, which showcase my skills, creativity, and dedication to the craft of coding. I invite you to explore my work, from small code snippets to full-fledged applications. Each project has its own README, providing detailed information on its purpose.
+🚀 In this repository, you'll find a collection of my projects and contributions, which showcase my skills, creativity, and dedication to the craft of coding. I invite you to explore my work, from small code snippets to full-fledged applications. Each folder has its own README, providing detailed information on its purpose.
 
 ### 🔧 My Technical Toolbox
 

@@ -24,7 +24,7 @@ I'm a passionate and results-driven computer science student at Cal Poly SLO wit
 - __Senior Project__
 - __Politics and Religion in Italian Renaissance Art__
 
-My current goal is to learn techniques and tools for securing code and computer architecture to improve the security of applications.
+My current goal is to learn techniques and tools for securing code to improve the security of applications.
 
 ### Let's Connect!
 

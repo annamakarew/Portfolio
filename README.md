@@ -13,7 +13,7 @@ I'm a passionate and results-driven computer science student at Cal Poly SLO wit
 - **Languages**: Python, JavaScript, Java, C, SQL, HTML, CSS
 - **Frameworks and Libraries**: React, MySQL
 - **Tools**: IntelliJ, Atom, npm, pip, vim, Slack, Microsoft Teams, Zoom, Jira, Figma
-- **Version Control**: Proficient in Git and experienced with collaborative development on GitHub.
+- **Version Control**: Proficient in Git and experienced with collaborative development on GitHub
 
 ### What I'm Currently Up To
 
@@ -22,7 +22,7 @@ I'm a passionate and results-driven computer science student at Cal Poly SLO wit
 - __Intro to Computer Security__
 - __Ethics, Science, and Technology__
 - __Senior Project__
-- __Politics and Religion in Italian Renaissance Art__.
+- __Politics and Religion in Italian Renaissance Art__
 
 My current goal is to learn techniques and tools for securing code and computer architecture to improve the security of applications.
 

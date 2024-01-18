@@ -17,7 +17,14 @@ I'm a passionate and results-driven computer science student at Cal Poly SLO wit
 
 ### What I'm Currently Up To
 
-🌱 I'm currently in winter quarter of my 4th year at Cal Poly SLO. I am taking __Programming Languages__, __Intro to Computer Security__, __Ethics, Science, and Technology__, __Senior Project__, and __Politics and Religion in Italian Renaissance Art__.  My current goal is to learn techniques and tools for securing code and computer architecture to improve the security of applications.
+🌱 I'm currently in winter quarter of my 4th year at Cal Poly SLO. I am taking 
+- __Programming Languages__
+- __Intro to Computer Security__
+- __Ethics, Science, and Technology__
+- __Senior Project__
+- __Politics and Religion in Italian Renaissance Art__.
+
+My current goal is to learn techniques and tools for securing code and computer architecture to improve the security of applications.
 
 ### Let's Connect!
 
